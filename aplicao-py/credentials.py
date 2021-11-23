@@ -1,2 +1,3 @@
 usr = 'root'
-pswd = '1012'
+pswd = 'urubu100'
+# pswd = '1012'
